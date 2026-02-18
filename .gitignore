@@ -1,0 +1,28 @@
+# Dependencies
+/vendor/
+/node_modules/
+
+# Environment & secrets
+.env
+
+# OS / Editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Archives & dumps
+*.zip
+*.rar
+*.7z
+*.sql
+
+# Temp files
+tmp/
+cache/
+
+# Build / dist (if any)
+dist/
+build/
